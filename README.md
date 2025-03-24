@@ -28,8 +28,8 @@ pip install tkinter yt-dlp
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/yetsin7/youtube_download.git
+cd youtube_download
 ```
 
 ## 💻 Uso
@@ -62,7 +62,7 @@ Distribuido bajo la Licencia MIT. Consulte `LICENSE` para más información.
 - La descarga de videos muy largos puede tardar
 
 ## 🌐 Contacto
-Tu Nombre - [Tu Email]
+Mauricio Gutiérrez - mauriciogutierrezym136@gmail.com
 
 Enlace del Proyecto: https://github.com/yetsin7/youtube_download
 
