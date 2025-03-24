@@ -64,7 +64,7 @@ Distribuido bajo la Licencia MIT. Consulte `LICENSE` para más información.
 ## 🌐 Contacto
 Tu Nombre - [Tu Email]
 
-Enlace del Proyecto: https://github.com/tu-usuario/youtube-downloader
+Enlace del Proyecto: https://github.com/yetsin7/youtube_download
 
 ---
 
