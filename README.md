@@ -3,7 +3,7 @@
 ## 🌟 Descripción
 YouTube Downloader Pro es una aplicación de escritorio desarrollada en Python que permite descargar videos y audio de YouTube de manera fácil, rápida y con múltiples opciones de configuración.
 
-![Captura de Pantalla](screenshot.png)  <!-- Agrega una captura de pantalla de tu aplicación -->
+![Captura de Pantalla](docs/screenshot.png)  <!-- Agrega una captura de pantalla de tu aplicación -->
 
 ## ✨ Características
 - 🎥 Descarga de videos en múltiples calidades (4K, Full HD, HD, SD)
